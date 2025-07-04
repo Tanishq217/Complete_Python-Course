@@ -1,0 +1,10 @@
+import math
+
+# ceil
+print(math.ceil(4.2))
+
+# floor
+print(math.floor(4.8))
+
+# fabs
+print(math.fabs(-4.5))
